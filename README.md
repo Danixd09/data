@@ -1,3 +1,0 @@
-[
-    "8999134757:AAEmll4RHbsLMjPVxdTGdkSTOqY1ERjZrxk"
-]
